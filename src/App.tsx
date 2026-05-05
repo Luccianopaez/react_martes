@@ -29,7 +29,7 @@ const App = () => {
           <div className="bg-blue-500/20 p-4 rounded-full mb-6 backdrop-blur-sm border border-blue-400/30">
             <Shield size={64} className="text-blue-300" />
           </div>
-          <h1 className="text-4xl md:text-6xl font-extrabold tracking-tight mb-4">
+          <h1 className="text-4xl md:text-6xl font-extrabold tracking-tight mb-4 text-white">
             Nueva Ley de Protección de Datos
           </h1>
           <p className="text-xl md:text-2xl text-blue-100 max-w-3xl font-light">
@@ -269,7 +269,7 @@ const App = () => {
           <Database className="absolute right-[-20px] bottom-[-20px] text-white/5" size={300} />
           
           <div className="relative z-10">
-            <h2 className="text-2xl md:text-4xl font-bold mb-4">¿Tienes una empresa o emprendimiento?</h2>
+            <h2 className="text-2xl md:text-4xl font-bold mb-4 text-white">¿Tienes una empresa o emprendimiento?</h2>
             <p className="text-slate-300 mb-10 max-w-3xl text-lg">
               La ley aplica a todas las entidades que traten datos personales en Chile. Aquí tienes 4 pasos clave para empezar a adaptarte:
             </p>
